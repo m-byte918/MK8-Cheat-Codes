@@ -1,0 +1,7 @@
+By Lüî§35000vr
+
+This code eliminates the annoying lakitu that appears when the player drives backwards, 
+now you can drive freely backwards without lakitu appearing. 
+
+00020000 105B9038
+3FC00000 00000000
