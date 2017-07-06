@@ -1,0 +1,20 @@
+By Lüî§35000vr
+
+This code when activated will keep the position static, when the players or you pass the finish line, 
+the position will return to normal (it will show its real position), this code affects all players 
+(is displayed on the Wii U GamePad screen), the code does not work on the tracks Mount Wario and Big Blue. 
+Video: https://www.youtube.com/watch?v=qOflVoo0GdI
+
+Replace Y's with desired button activator to activate
+Replace Z's with desired button activator to deactivate
+
+09020000 102F48A8
+YYYYYYYY 00000000
+00020000 105B9010
+41200000 00000000
+D0000000 DEADCAFE
+09020000 102F48A8
+ZZZZZZZZ 00000000
+00020000 105B9010
+43300000 00000000
+D0000000 DEADCAFE
