@@ -1,0 +1,11 @@
+By Lüî§35000vr
+
+Replace X's with your desired value.
+Use the "conversions" tab in JGeckoU if you want custom size values.
+3F000000 = Half Size
+3F800000 = Normal Size
+40000000 = Double Size
+41000000 = 8x Size
+
+00020000 1051C4A4
+XXXXXXXX 00000000
