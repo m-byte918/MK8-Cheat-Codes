@@ -1,0 +1,10 @@
+By Lüî§35000vr
+
+Replace X's with your desired value. Hitbox size is directly proportionate to the banana's size.
+00000000 = Invisible
+3E800000 = Small
+40000000 = Big
+41000000 = Extra Big
+
+00020000 10516B90
+XXXXXXXX 00000000
