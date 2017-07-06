@@ -1,0 +1,11 @@
+By Lüî§35000vr
+
+Replace X's with desired value.
+00000000 = Invisible
+3DC00000 = Small
+40000000 = Big
+41000000 = Extra Big
+
+00020000 1051485C
+XXXXXXXX 00000000
+ 
