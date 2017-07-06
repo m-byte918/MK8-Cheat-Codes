@@ -1,0 +1,6 @@
+By Lüî§35000vr
+
+This code deletes the flash & sky darknening effects when throwing lightning.
+
+00020000 1051E724
+80800000 00000000
