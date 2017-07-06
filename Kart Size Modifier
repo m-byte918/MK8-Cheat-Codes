@@ -1,0 +1,12 @@
+By Megabyte918
+
+Only applies to kart, not the player within the kart.
+
+Replace X's with your desired value.
+3C000000 = No Kart
+3F800000 = Normal Size Kart
+40000000 = Double Size Kart
+41000000 = 8x Size Kart
+
+00020000 105232D0
+XXXXXXXX 00000000
