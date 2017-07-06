@@ -1,0 +1,14 @@
+By Divengerss
+
+Allows you to change the gamma of your game but also changes the size of the screen
+when you leave a party or you start again.
+
+Replace X's with your desired value.
+3FE00000 = Bright
+3F800000 = Normal
+3FD9999A = x1.7
+3F000000 = Dark
+3DCCCCCD = Very Dark
+
+00020000 10620CE4
+XXXXXXXX 00000000
