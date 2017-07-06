@@ -1,0 +1,6 @@
+By Lüî§35000vr
+
+This code deletes the blooper effect on the player's screen, but still maintains the effect of the ink.
+
+00020000 1051A248
+00000000 00000000
