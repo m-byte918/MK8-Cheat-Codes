@@ -1,0 +1,9 @@
+By Lüî§35000vr
+
+Replace X's with desired value:
+00000000 = The fire balls will jump backward and forward.
+3F800000 = The fire balls will stay static until disappearing.
+47000000 = The fire balls freeze your Wii U (and freeze anyone nearby's Wii U?)
+
+00020000 10519B7C
+XXXXXXXX 00000000
