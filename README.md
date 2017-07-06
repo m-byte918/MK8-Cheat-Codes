@@ -1,5 +1,5 @@
 # MK8-Cheat-Codes
-List of Cafe/Gecko codes for Mario Kart 8 (Wii U)
+List of Cafe/Gecko codes for Mario Kart 8, version 4.1 USA.
 
 Codes gathered from various sources online and some by me.
 
