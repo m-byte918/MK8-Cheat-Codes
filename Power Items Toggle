@@ -6,16 +6,16 @@ that the player always obtained when are in the last place. this code also affec
 in the online game, the code forces the server for other players to get the same items that you get. 
 this only affects some players, especially when a race is among 10 or fewer players.
 
-Replace Y's with your desired button activator to activate.
-Replace Z's with your desired button activator to deactivate.
+Replace X's with desired controller address and replace Y's with desired button activator.
+See https://github.com/Megabyte918/MK8-Memory-Notes/blob/master/ACTIVATORS.md for more info.
 
-09020000 102F48A8
+09020000 XXXXXXXX
 YYYYYYYY 00000000
 00020000 1051F554
 80800000 00000000
 D0000000 DEADCAFE
-09020000 102F48A8
-ZZZZZZZZ 00000000
+09020000 XXXXXXXX
+YYYYYYYY 00000000
 00020000 1051F554
 80000000 00000000
 D0000000 DEADCAFE
