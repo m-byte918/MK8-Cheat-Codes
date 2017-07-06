@@ -1,0 +1,6 @@
+By Megabyte918
+
+Player will not collide with objects on the track.
+
+00020000 1050F024
+00000000 00000000
