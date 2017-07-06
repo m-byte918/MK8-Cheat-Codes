@@ -1,0 +1,11 @@
+By Lüî§35000vr
+
+Replace X's with desired value:
+3F000000 = Red and blue shells will stay static when being thrown, blue shells will stay static for
+some seconds and then will move slowly.
+40E00000 = Increases the speed of red and blue shells when being thrown.
+41000000 = You will have the possibility to control the blue shell, you will be able of hit players if they are near you.
+F0F00000 = Throw Red Shell or Blue Shell to Freeze Wii U (and anyone nearby's Wii U?)
+
+00020000 1051CC70
+XXXXXXXX 00000000
