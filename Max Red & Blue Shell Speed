@@ -1,0 +1,8 @@
+By Lüî§35000vr
+
+Replace X's with desired value.
+3F8F0000 = Increases the speed of red and blue shells when being thrown.
+40000000 = You will have the possibility to control the blue shell, you will be able of hit players if they are near you.
+
+00020000 1051CC6C
+XXXXXXXX 00000000
