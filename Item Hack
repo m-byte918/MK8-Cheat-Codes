@@ -23,7 +23,7 @@ C0000011 60000000
 
 Item Cycler
 
-Replace X's with desired item.
+Replace Z's with desired item.
 00 = Banana
 01 = Green Shell
 02 = Red Shell
@@ -46,20 +46,20 @@ Replace X's with desired item.
 0E = Boomerang
 0F = Coin
 
-Replace Y's with desired button activator.
-See "ACTIVATORS.md" for different activators.
+Replace X's with desired controller address and replace Y's with desired button activator.
+See https://github.com/Megabyte918/MK8-Memory-Notes/blob/master/ACTIVATORS.md for more info.
 
 30000000 4443BB4C
 35000000 50000000
 05120000 00000075
 00000000 00000000
-09020000 1F604EA0
+09020000 XXXXXXXX
 YYYYYYYY 00000000
 00020000 11000080
-000000XX 00000000
+000000ZZ 00000000
 D0000000 DEADCAFE
-09020000 1F604EA0
+09020000 XXXXXXXX
 YYYYYYYY 00000000
 00020000 11000080
-000000XX 00000000
+000000ZZ 00000000
 D0000000 DEADCAFE
