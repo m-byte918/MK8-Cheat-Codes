@@ -1,14 +1,15 @@
 By Mega-Mew
 
-Replace Y's with desired button activator. See .. for more information
+Replace X's with desired controller address and replace Y's with desired button activator.
+See https://github.com/Megabyte918/MK8-Memory-Notes/blob/master/ACTIVATORS.md for more info.
 
-09020000 102F48A8
+09020000 XXXXXXXX
 YYYYYYYY 00000000
 00020000 10050004
 00000001 00000000
 D0000000 DEADCAFE
-09020000 102F48A8
-00000400 00000000
+09020000 XXXXXXXX
+YYYYYYYY 00000000
 00020000 10050004
 00000002 00000000
 D0000000 DEADCAFE
