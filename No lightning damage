@@ -1,6 +1,12 @@
 By Lüî§35000vr
 
-Only works if you are in 1st place.
+Replace X's with your desired value.
+
+00000000 = The damage caused by lightning doesn't reduce of size to the player, this effect deletes 
+the lightning when it is thrown (only takes effect if you are in first place).
+
+FFFFFFFF = The damage caused by lightning maintains reduced of size of the player, the only way to
+return to normal size is using a bullet bill.
 
 00020000 1051E740
-00000000 00000000
+XXXXXXXX 00000000
