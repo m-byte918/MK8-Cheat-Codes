@@ -1,0 +1,107 @@
+By Lüî§35000vr
+
+This code will allow you to replace any amiibo suit that is enabled, at least you will need a suit enabled to 
+replace it with any of the suits available in the game, to apply this code you will need to do the following:
+ 
+1 - Enter the game of Mario Kart 8.
+2 - In the selection menu of the game press the + button, this is to enter the menu Mii Racing Suits.
+3 - In the menu of Mii Racing Suits apply the code.
+4 - When you select your mii and the suit you have modified, it will be replaced by the suit you have chosen.
+
+Replace X's with your desired suit:
+
+105B49F0 = Amiibo Mii Racing Suit Mario
+105B49F4 = Amiibo Mii Racing Suit Luigi
+105B49F8 = Amiibo Mii Racing Suit Yoshi
+105B49FC = Amiibo Mii Racing Suit Peach
+105B4A00 = Amiibo Mii Racing Suit Toad
+105B4A04 = Amiibo Mii Racing Suit Donkey Kong
+105B4A08 = Amiibo Mii Racing Suit Bowser
+105B4A0C = Amiibo Mii Racing Suit Wario
+105B4A10 = Amiibo Mii Racing Suit Captain Falcon
+105B4A14 = Amiibo Mii Racing Suit Fox McCloud
+105B4A18 = Amiibo Mii Racing Suit Samus Aran
+105B4A1C = Amiibo Mii Racing Suit Link
+105B4A24 = Amiibo Mii Racing Suit Kirby
+105B4A28 = Amiibo Mii Racing Suit Rosalina
+105B4A2C = Amiibo Mii Racing Suit Pikmin
+105B4A30 = Amiibo Mii Racing Suit Animal Crossing
+105B4A34 = Amiibo Mii Racing Suit PAC-MAN
+105B4A38 = Amiibo Mii Racing Suit Mega Man
+105B4A3C = Amiibo Mii Racing Suit Sonic
+
+Mario Suit
+00020000 105B49A0
+XXXXXXXX 00000000
+ 
+Luigi Suit
+00020000 105B49A4
+XXXXXXXX 00000000
+ 
+Yoshi Suit
+00020000 105B49A8
+XXXXXXXX 00000000
+ 
+Peach Suit
+00020000 105B49AC
+XXXXXXXX 00000000
+ 
+Toad Suit
+00020000 105B49B0
+XXXXXXXX 00000000
+ 
+Donkey Kong Suit
+00020000 105B49B4
+XXXXXXXX 00000000
+ 
+Bowser Suit
+00020000 105B49B8
+XXXXXXXX 00000000
+ 
+Wario Suit
+00020000 105B49BC
+XXXXXXXX 00000000
+ 
+Captain Falcon Suit
+00020000 105B49C0
+XXXXXXXX 00000000
+ 
+Fox McCloud Suit
+00020000 105B49C4
+XXXXXXXX 00000000
+ 
+Samus Aran Suit
+00020000 105B49C8
+XXXXXXXX 00000000
+ 
+Link Suit
+00020000 105B49CC
+XXXXXXXX 00000000
+ 
+Kirby Suit
+00020000 105B49D4
+XXXXXXXX 00000000
+ 
+Rosalina Suit
+00020000 105B49D8
+XXXXXXXX 00000000
+ 
+Pikmin Suit
+00020000 105B49DC
+XXXXXXXX 00000000
+ 
+Animal Crossing Suit
+00020000 105B49E0
+XXXXXXXX 00000000
+ 
+PAC-MAN Suit
+00020000 105B49E4
+XXXXXXXX 00000000
+ 
+Mega Man Suit
+00020000 105B49E8
+XXXXXXXX 00000000
+ 
+Sonic Suit
+00020000 105B49EC
+XXXXXXXX 00000000
