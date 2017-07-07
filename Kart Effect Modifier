@@ -1,0 +1,54 @@
+By Megabyte918
+
+Replace X's with desired controller address and replace Y's with desired button activator.
+See https://github.com/Megabyte918/MK8-Memory-Notes/blob/master/ACTIVATORS.md for more info.
+
+Replace Z's with your desired value.
+00000000 = Nothing
+00001000 = Paraglide when going over small ramps/gaps
+00002000 = Speed Lines
+00005000 = Paraglider Activation
+00000080 = Boost + Flying
+00008000 = Water splash & rumble
+00010000 = Anti-Gravity wheel glow
+00030000 = Star sparkle effect
+00040000 = Ink (on player only)
+00080000 = Lightning effect (on player only)
+00100000 = Regular wheel glow
+00400000 = Can't move
+02000000 = Consecutive Mini Turbos
+08000000 = Tailgate buildup lines
+0D000000 = Blue Particle Effects
+10000000 = Tailgate boost lines
+20000000 = Bullet Bill
+40000000 = Can't Drift
+FFFFFFFF = Everything
+
+09020000 XXXXXXXX
+YYYYYYYY 00000000
+30000000 4443BB4C
+35000000 50000000
+05120000 00000075
+00000000 00000000
+30000000 3FBA92BC
+35000000 50000000
+31000000 00000020
+30100000 00000000
+35000000 50000000
+31000000 00000145
+00120000 ZZZZZZZZ
+D0000000 DEADCAFE
+09020000 XXXXXXXX
+YYYYYYYY 00000000
+30000000 4443BB4C
+35000000 50000000
+05120000 00000075
+00000000 00000000
+30000000 3FBA92BC
+35000000 50000000
+31000000 00000020
+30100000 00000000
+35000000 50000000
+31000000 00000145
+00120000 00000000
+D0000000 DEADCAFE
