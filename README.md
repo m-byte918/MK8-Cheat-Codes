@@ -5,7 +5,7 @@ Codes gathered from various sources online and some by me.
 
 Since MK8-Deluxe has been released and the amount of online players on MK8 has started to decline, people have begun to release more and more cheat codes for MK8. I thought I'd share some of the ones I've seen and some I created myself. All codes should work online as well unless specified otherwise.
 
-Code format:
+**Code format:**
 ```
 Code Name [Author's Name]
 
